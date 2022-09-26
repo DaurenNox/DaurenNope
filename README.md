@@ -2,7 +2,7 @@
 <h3 align="center">I am full-stack developer web3 developer. Always keen to learn, teach, network and upgrade skills.</h3>
 <br/>
 
-- 🖇 Currently building projects for porfolio and working on the side project <a  href="spinyourlife.me" target="_blank" alt="Spin">SpinYourLife</a>
+- 🖇 Currently building projects for porfolio and working on the side project [SpinYourLife](https://spinyourlife.me/)
 
 - 💻 I’m currently learning emaiSolidity, Typescript, React, NextJS, TailwindCSS, testing w/ Mocha/Chai
 
