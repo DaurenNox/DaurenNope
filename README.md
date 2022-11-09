@@ -4,7 +4,7 @@
 
 - 🖇 Currently building projects for porfolio and working on the side project [SpinYourLife](https://spinyourlife.me/)
 
-- 💻 I’m currently working with Solidity, Typescript, React, NextJS, TailwindCSS, testing w/ Mocha/Chai
+- 💻 My working stack: Solidity, Typescript, React, NextJS, TailwindCSS, testing w/ Mocha/Chai.
 
 - 🧑🏽‍💻 Always open to network and work on all kinds of web3 projects
 
