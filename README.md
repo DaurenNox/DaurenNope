@@ -18,7 +18,7 @@
 <br />
 <h3 align="left">Languages and Tools:</h3>
 <p items-align="left" width="full-width">
-<a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img align="center" src="https://docs.soliditylang.org/en/v0.8.13/_static/logo.svg" alt="solidity" width="40" height="40"/> </a>
+<a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img align="center" src="https://docs.soliditylang.org/en/v0.8.13/_static/logo.svg" alt="solidity" width="40" height="40"/> </a></n>
 <a href="https://hardhat.org/" target="_blank" rel="noreferrer"> <img src="https://hardhat.org/_next/static/media/hardhat-logo-dark.484eb916.svg" alt="hardhat" width="160" height="40"/> </a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="nextjs" width="67" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
